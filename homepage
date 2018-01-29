@@ -1,2 +1,21 @@
+<!DOCTYPE html>
 <html>
+<head>
+    <title>First website design</title>
+    
+    <meta name="author" content="your name" />
+    <meta name="description" content="test" />
+    
+    <link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+<body>
+<div id="heading1">
+    <h1>This is a heading </h1>
+</div>
+    This is some text
+        <ol>
+            <li>test</li>
+            <li>test2</li>
+        </ol>
+</body>
 </html>
