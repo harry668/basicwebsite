@@ -8,16 +8,27 @@
     
     <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
-<body>
-<div id="nav">
-    <h1>This is a heading </h1>
-</div>
-    This is some text
-        <ol>
-            <li><a href="/home.html">Home</li>
-            <li>About</li>
-            <li>Contact</li>
-            test
-        </ol>
+    <body class="background">
+<div id="page">
+    <h1 class="heading"><a href="homepage" style="color:white">My First Website</a></h1>
+        <ul id ="nav">
+            <li class="navtest"><a href="home">Home</a></li>
+            <li><a href="about">About</a></li>
+            <li><a href="contact">Contact</a></li>
+        </ul>
+
+    <div id="navtable">
+        <table>
+            <tr>
+                <td>Row 1</td>
+            </tr>
+            <tr>
+                <td>row 2</td>
+            </tr>
+        </table>
+    </div>
+
+    <img src="images/rabbit.jpg" alt="Test" style="height:50px;height:50px;align-self: left;"/>
+    </div>
 </body>
 </html>
