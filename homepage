@@ -9,15 +9,14 @@
     <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
 <body>
-<div id="heading1">
+<div id="nav">
     <h1>This is a heading </h1>
 </div>
     This is some text
         <ol>
-            <li>test</li>
-            <li>test2</li>
+            <li><a href="/home.html"</li>
+            <li>About</li>
+            <li>Contact</li>
         </ol>
-        test git desktop
-        test#2
 </body>
 </html>
