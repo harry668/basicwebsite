@@ -8,12 +8,9 @@
     
     <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
-<!-- <body <background="images/brick.jpg"> -->
     <body class="background">
 <div id="page">
-<div id="heading1">
     <h1 class="heading"><a href="homepage" style="color:white">My First Website</a></h1>
-</div>
         <ul id ="nav">
             <li class="navtest"><a href="home">Home</a></li>
             <li><a href="about">About</a></li>

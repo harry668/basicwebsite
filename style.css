@@ -1,10 +1,6 @@
 #page {
 background-color: white;
 }
-#heading1{
-    color: grey
-        
-}
 
 #nav {
 	width: 12%;
@@ -38,4 +34,16 @@ background-color: white;
 	text-align: center;
 	text-decoration: none;
 	display:inline-block;
+}
+
+.heading:hover {
+	color:pink;
+}
+
+a {
+	color:white;
+}
+
+a:hover {
+	color:pink;
 }
