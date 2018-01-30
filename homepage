@@ -9,15 +9,18 @@
     <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
 <body>
-<div id="nav">
+<div id="heading1">
     <h1>This is a heading </h1>
 </div>
-    This is some text
+<div id="text">
+Teeset text
+</div>
+    <div id="nav">
         <ol>
             <li><a href="/home.html">Home</li>
             <li>About</li>
             <li>Contact</li>
-            test
         </ol>
+    </a>
 </body>
 </html>

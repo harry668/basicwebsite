@@ -6,6 +6,9 @@
 #nav {
 	width: 60%;
 	display: inline-block;
-	text-align: right;
-	float: right;
+	text-align: left;
+	float: left;
+}
+#text {
+	float: left;
 }
