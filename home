@@ -6,9 +6,8 @@
         <link rel="stylesheet" href="style.css" type="text/css" />
     </head>
     
-    <body>
-    <h1>Homepage heading</h1>
-    <h1><a href = "homepage">Homepage</a></h1>
+    <body class="background">
+    <h1 class="heading"><a href="homepage" style="color:white">My First Website</a></h1>
     </body>
 </html>
  

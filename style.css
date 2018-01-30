@@ -22,3 +22,20 @@ background-color: white;
 	background-color:red;
 	color-blue;
 }
+
+.background {
+	background-image:url(images/brick.jpg);
+}
+
+.heading {
+	color: white;
+	background-color: black;
+}
+.navtest {
+	background-color: black;
+	color:white;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display:inline-block;
+}
